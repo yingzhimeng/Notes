@@ -8,6 +8,10 @@ create-react-app my-app
 cd my-app/
 npm start
 ```
+### React Terminalogy
+* PropTypes
+* props
+* State
 
 ### React Life Cycle
 * ComponentWillMount
